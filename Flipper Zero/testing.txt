@@ -1,6 +1,0 @@
-REM a simple RickRoll to test out the flipper zero
-DELAY 1000
-GUI r
-DELAY 1500
-STRING powershell Start-Process "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-ENTER
