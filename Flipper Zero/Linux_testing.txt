@@ -1,7 +1,0 @@
-REM This is for Linux and will open a terminal and rickroll from 
-default browser
-DELAY 800
-CTRL ALT t
-DELAY 1200 
-STRING xdg-open "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-ENTER
