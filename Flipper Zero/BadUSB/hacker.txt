@@ -1,0 +1,2 @@
+REM this is a fakeUSB to use as a fun stereotype kind of thing
+

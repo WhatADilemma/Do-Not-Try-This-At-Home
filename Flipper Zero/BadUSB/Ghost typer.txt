@@ -1,0 +1,10 @@
+REM Opens Notepad and types random text
+DELAY 500
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+STRING Wow! You just plugged in a random USB... what could possibly go wrong?
+ENTER
+STRING Always think before you click!
